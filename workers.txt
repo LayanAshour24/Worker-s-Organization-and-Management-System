@@ -1,0 +1,5 @@
+Ahmed,Cleaning,4.0,10 AM / 11 AM
+Ali,Cleaning,4.8,12 PM / 2 PM
+Omar,Cleaning,4.5,No available times
+Khalid,Plumbing,4.9,3 PM / 4 PM
+Sara,Cleaning,4.9,9 AM / 1 PM
